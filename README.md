@@ -3,6 +3,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## To start the app
+Clone the repository and run:
+
+### `npm install`
+
+then
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
