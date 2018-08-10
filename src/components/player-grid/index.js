@@ -20,8 +20,9 @@ class PlayerGrid extends Component {
   render() {
     const players = this._getPlayerCards();
     return (
-      <div className="container">
-        <div className="playerGrid">
+      <div className="playerGrid">
+        <h1 className="playerGrid__heading">Player Cards</h1>
+        <div className="playerGrid__list">
           {players}
         </div>
       </div>

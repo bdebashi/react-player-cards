@@ -1,11 +1,28 @@
-.container {
+.playerGrid {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 40px;
 }
 
-.playerGrid {
+.playerGrid__heading {
+  text-align: center;
+}
+
+.playerGrid__list {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   grid-gap: 20px;
+  justify-items: center;
+}
+
+@media (min-width: 740px) {
+  .playerGrid__list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1025px) {
+  .playerGrid__list {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
