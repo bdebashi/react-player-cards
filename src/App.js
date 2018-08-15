@@ -1,11 +1,13 @@
 import React, { Component } from 'react';
 
-import PlayerGrid from './components/player-grid/index';
+import PlayerSelect from './components/player-select/index';
 
 class App extends Component {
   render() {
     return (
-      <PlayerGrid />
+      <div className="playerWidget">
+        <PlayerSelect />
+      </div>
     );
   }
 }
