@@ -4,7 +4,7 @@
 
 .playerCard__background {
   width: 100%;
-  background: url("/assets/images/player_background.png") no-repeat right;
+  background: url("../../assets/images/player_background.png") no-repeat right;
 }
 
 .playerCard__playerImage {
@@ -17,7 +17,7 @@
 }
 
 .playerCard__clubBadge {
-  background: url("/assets/images/badges_sprite.png") no-repeat;
+  background: url("../../assets/images/badges_sprite.png") no-repeat;
   width: 100px;
   height: 100px;
   display: inline-block;

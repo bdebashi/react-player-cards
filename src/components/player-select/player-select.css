@@ -1,6 +1,6 @@
 .playerSelect__select {
   appearance: none;
-  background: url('/assets/images/arrow.png') no-repeat right 15px top 18px #EAEAEA;
+  background: url('../../assets/images/arrow.png') no-repeat right 15px top 18px #EAEAEA;
   border: none;
   font-size: 16px;
   height: 45px;

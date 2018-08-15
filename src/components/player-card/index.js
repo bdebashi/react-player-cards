@@ -22,7 +22,7 @@ const PlayerCard = (props) => {
     <div className="playerCard">
       <div className="playerCard__background">
         <div className="playerCard__playerImage">
-          <img src={'/assets/images/p' + props.player.player.id + '.png'} alt="" id="pic" />
+          <img src={require('../../assets/images/p' + props.player.player.id + '.png')} alt="" id="pic" />
         </div>
       </div>
       <div className={'playerCard__clubBadge playerCard__clubBadge--' + props.player.player.currentTeam.id} id="club-badge" title="" />
