@@ -1,6 +1,13 @@
 {
-  "main.css": "static/css/main.9d75daed.css",
-  "main.css.map": "static/css/main.9d75daed.css.map",
-  "main.js": "static/js/main.804132a9.js",
-  "main.js.map": "static/js/main.804132a9.js.map"
+  "main.css": "static/css/main.40f39061.css",
+  "main.css.map": "static/css/main.40f39061.css.map",
+  "main.js": "static/js/main.27e6c9ce.js",
+  "main.js.map": "static/js/main.27e6c9ce.js.map",
+  "static/media/badges_sprite.png": "static/media/badges_sprite.a38c2995.png",
+  "static/media/p2064.png": "static/media/p2064.4e243d91.png",
+  "static/media/p4148.png": "static/media/p4148.8ce994f7.png",
+  "static/media/p4246.png": "static/media/p4246.f7bd53c6.png",
+  "static/media/p4916.png": "static/media/p4916.078f0b99.png",
+  "static/media/p8983.png": "static/media/p8983.ce671d9c.png",
+  "static/media/player_background.png": "static/media/player_background.4f1a9748.png"
 }
