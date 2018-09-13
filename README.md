@@ -1,5 +1,7 @@
 ## Player Cards Built with React
 
+Can be viewed on [https://bdebashi.github.io/react-player-cards/](https://bdebashi.github.io/react-player-cards/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## To start the app
