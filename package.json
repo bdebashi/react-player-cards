@@ -4,10 +4,10 @@
   "private": true,
   "homepage": "https://bdebashi.github.io/react-player-cards",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.19.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-scripts": "1.1.4"
+    "react-scripts": "^3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -20,5 +20,17 @@
   "devDependencies": {
     "eslintrc": "^1.0.6",
     "gh-pages": "^1.2.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
